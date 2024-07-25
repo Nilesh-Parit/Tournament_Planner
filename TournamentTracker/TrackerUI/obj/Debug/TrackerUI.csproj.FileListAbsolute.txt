@@ -1,0 +1,14 @@
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.AssemblyReference.cache
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForms.resources
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\nilesh.parit\Desktop\Tournamant Project\Tournament_Planner\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
