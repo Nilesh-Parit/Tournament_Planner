@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD200289-26C3-42BA-BE6A-CDE736F2E10F}|..\\TrackerUI\\TrackerUI.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerui\\createprizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerlibrary\\dataaccess\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|solutionrelative:dataaccess\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD200289-26C3-42BA-BE6A-CDE736F2E10F}|..\\TrackerUI\\TrackerUI.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerui\\createprizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD200289-26C3-42BA-BE6A-CDE736F2E10F}|..\\TrackerUI\\TrackerUI.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerlibrary\\dataaccess\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|solutionrelative:dataaccess\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerlibrary\\globalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|solutionrelative:globalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD200289-26C3-42BA-BE6A-CDE736F2E10F}|..\\TrackerUI\\TrackerUI.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerlibrary\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|solutionrelative:enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerlibrary\\dataaccess\\textconnectorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|solutionrelative:dataaccess\\textconnectorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,105 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SqlConnector.cs",
-              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\DataAccess\\SqlConnector.cs",
-              "RelativeDocumentMoniker": "DataAccess\\SqlConnector.cs",
-              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\DataAccess\\SqlConnector.cs",
-              "RelativeToolTip": "DataAccess\\SqlConnector.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T12:24:14.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreatePrizeForm.cs",
-              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerUI\\CreatePrizeForm.cs",
-              "RelativeDocumentMoniker": "..\\TrackerUI\\CreatePrizeForm.cs",
-              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerUI\\CreatePrizeForm.cs",
-              "RelativeToolTip": "..\\TrackerUI\\CreatePrizeForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Title": "TextConnectorProcessor.cs",
+              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "RelativeDocumentMoniker": "DataAccess\\TextConnectorProcessor.cs",
+              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "RelativeToolTip": "DataAccess\\TextConnectorProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKYBAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T12:23:07.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreatePrizeForm.cs [Design]",
-              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerUI\\CreatePrizeForm.cs",
-              "RelativeDocumentMoniker": "..\\TrackerUI\\CreatePrizeForm.cs",
-              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerUI\\CreatePrizeForm.cs [Design]",
-              "RelativeToolTip": "..\\TrackerUI\\CreatePrizeForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T12:23:03.417Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerUI\\App.config",
-              "RelativeDocumentMoniker": "..\\TrackerUI\\App.config",
-              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerUI\\App.config",
-              "RelativeToolTip": "..\\TrackerUI\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-29T10:36:54.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IDataConnection.cs",
-              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\DataAccess\\IDataConnection.cs",
-              "RelativeDocumentMoniker": "DataAccess\\IDataConnection.cs",
-              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\DataAccess\\IDataConnection.cs",
-              "RelativeToolTip": "DataAccess\\IDataConnection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T12:24:17.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GlobalConfig.cs",
-              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\GlobalConfig.cs",
-              "RelativeDocumentMoniker": "GlobalConfig.cs",
-              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\GlobalConfig.cs",
-              "RelativeToolTip": "GlobalConfig.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T12:13:57.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerUI\\Program.cs",
-              "RelativeDocumentMoniker": "..\\TrackerUI\\Program.cs",
-              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerUI\\Program.cs",
-              "RelativeToolTip": "..\\TrackerUI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T12:21:02.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\Enums.cs",
-              "RelativeDocumentMoniker": "Enums.cs",
-              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\Enums.cs",
-              "RelativeToolTip": "Enums.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T12:16:52.992Z",
+              "WhenOpened": "2024-08-07T13:10:45.074Z",
               "EditorCaption": ""
             }
           ]
