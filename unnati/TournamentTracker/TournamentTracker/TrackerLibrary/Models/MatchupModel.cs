@@ -11,7 +11,34 @@ namespace TrackerLibrary.Models
         public int Id {  get; set; } 
         public List<MatchupEntryModel> Entries { get; set; } = new List<MatchupEntryModel>();
         public TeamModel? Winner { get; set; }
+
+        /// <summary>
+        /// The Id from the database that will be used to identify the winner
+        /// </summary>
+        public int WinnerId { get; set; }
+
         public int MatchupRound { get; set; }
+
+        public string DisplayName
+        {
+            get
+            {
+                string output = "";
+
+                foreach (MatchupEntryModel me in Entries)
+                {
+                    if (output.Length == 0)
+                    {
+                        output = me.TeamCompeting.TeamName;
+                    }
+                    else
+                    {
+                        output += $" vs. {me.TeamCompeting.TeamName}";
+                    }
+                }
+                return output;
+            }
+        }
 
 
 

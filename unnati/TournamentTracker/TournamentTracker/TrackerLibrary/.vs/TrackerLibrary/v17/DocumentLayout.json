@@ -1,37 +1,19 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerlibrary\\dataaccess\\textconnectorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|solutionrelative:dataaccess\\textconnectorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TextConnectorProcessor.cs",
-              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
-              "RelativeDocumentMoniker": "DataAccess\\TextConnectorProcessor.cs",
-              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
-              "RelativeToolTip": "DataAccess\\TextConnectorProcessor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKYBAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T13:10:45.074Z",
-              "EditorCaption": ""
             }
           ]
         }

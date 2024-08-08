@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             headerLabel = new Label();
-            label1 = new Label();
+            TournamentName = new Label();
             roundLabel = new Label();
             roundDropDown = new ComboBox();
             unplayedOnlyCkeckbox = new CheckBox();
@@ -55,16 +55,16 @@
             headerLabel.TabIndex = 0;
             headerLabel.Text = "Tournament:";
             // 
-            // label1
+            // TournamentName
             // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI Light", 27.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.ForeColor = SystemColors.MenuHighlight;
-            label1.Location = new Point(222, 19);
-            label1.Name = "label1";
-            label1.Size = new Size(150, 50);
-            label1.TabIndex = 1;
-            label1.Text = "<none>";
+            TournamentName.AutoSize = true;
+            TournamentName.Font = new Font("Segoe UI Light", 27.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            TournamentName.ForeColor = SystemColors.MenuHighlight;
+            TournamentName.Location = new Point(222, 19);
+            TournamentName.Name = "TournamentName";
+            TournamentName.Size = new Size(150, 50);
+            TournamentName.TabIndex = 1;
+            TournamentName.Text = "<none>";
             // 
             // roundLabel
             // 
@@ -84,6 +84,7 @@
             roundDropDown.Name = "roundDropDown";
             roundDropDown.Size = new Size(200, 38);
             roundDropDown.TabIndex = 3;
+            roundDropDown.SelectedIndexChanged += roundDropDown_SelectedIndexChanged;
             // 
             // unplayedOnlyCkeckbox
             // 
@@ -165,7 +166,6 @@
             teamTwoName.Size = new Size(158, 37);
             teamTwoName.TabIndex = 10;
             teamTwoName.Text = "<team two>";
-            teamTwoName.Click += teamTwoName_Click;
             // 
             // scoreButton
             // 
@@ -211,13 +211,12 @@
             Controls.Add(unplayedOnlyCkeckbox);
             Controls.Add(roundDropDown);
             Controls.Add(roundLabel);
-            Controls.Add(label1);
+            Controls.Add(TournamentName);
             Controls.Add(headerLabel);
             Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             Margin = new Padding(5, 6, 5, 6);
             Name = "TournamentViewForm";
             Text = "Tournament Viewer";
-            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -225,7 +224,7 @@
         #endregion
 
         private Label headerLabel;
-        private Label label1;
+        private Label TournamentName;
         private Label roundLabel;
         private ComboBox roundDropDown;
         private CheckBox unplayedOnlyCkeckbox;
