@@ -98,6 +98,7 @@
             unplayedOnlyCkeckbox.TabIndex = 4;
             unplayedOnlyCkeckbox.Text = "Unplayed Only";
             unplayedOnlyCkeckbox.UseVisualStyleBackColor = true;
+            unplayedOnlyCkeckbox.CheckedChanged += unplayedOnlyCkeckbox_CheckedChanged;
             // 
             // MatchupListBox
             // 
@@ -108,6 +109,7 @@
             MatchupListBox.Name = "MatchupListBox";
             MatchupListBox.Size = new Size(318, 272);
             MatchupListBox.TabIndex = 5;
+            MatchupListBox.SelectedIndexChanged += MatchupListBox_SelectedIndexChanged;
             // 
             // TeamOneName
             // 
@@ -181,6 +183,7 @@
             scoreButton.TabIndex = 13;
             scoreButton.Text = "Score";
             scoreButton.UseVisualStyleBackColor = true;
+            scoreButton.Click += scoreButton_Click;
             // 
             // versusLabel
             // 

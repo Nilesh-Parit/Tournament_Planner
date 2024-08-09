@@ -1,19 +1,85 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD200289-26C3-42BA-BE6A-CDE736F2E10F}|..\\TrackerUI\\TrackerUI.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerui\\tournamentviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD200289-26C3-42BA-BE6A-CDE736F2E10F}|..\\TrackerUI\\TrackerUI.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerui\\tournamentviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerlibrary\\models\\matchupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|solutionrelative:models\\matchupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|d:\\unnati\\tournamenttracker\\tournamenttracker\\trackerlibrary\\dataaccess\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A1F39C-AA0D-4074-B45E-8EA60AF37D65}|TrackerLibrary.csproj|solutionrelative:dataaccess\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 90,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 310,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TournamentViewForm.cs [Design]",
+              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerUI\\TournamentViewForm.cs",
+              "RelativeDocumentMoniker": "..\\TrackerUI\\TournamentViewForm.cs",
+              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerUI\\TournamentViewForm.cs [Design]",
+              "RelativeToolTip": "..\\TrackerUI\\TournamentViewForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:30:10.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TournamentViewForm.cs",
+              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerUI\\TournamentViewForm.cs",
+              "RelativeDocumentMoniker": "..\\TrackerUI\\TournamentViewForm.cs",
+              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerUI\\TournamentViewForm.cs",
+              "RelativeToolTip": "..\\TrackerUI\\TournamentViewForm.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAkwFgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:36:03.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatchupModel.cs",
+              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\Models\\MatchupModel.cs",
+              "RelativeDocumentMoniker": "Models\\MatchupModel.cs",
+              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\Models\\MatchupModel.cs",
+              "RelativeToolTip": "Models\\MatchupModel.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:53:26.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlConnector.cs",
+              "DocumentMoniker": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\DataAccess\\SqlConnector.cs",
+              "RelativeDocumentMoniker": "DataAccess\\SqlConnector.cs",
+              "ToolTip": "D:\\unnati\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\DataAccess\\SqlConnector.cs",
+              "RelativeToolTip": "DataAccess\\SqlConnector.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAswFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:07:49.91Z",
+              "EditorCaption": ""
             }
           ]
         }
