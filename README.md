@@ -28,4 +28,4 @@ Tournament Tracker is a Windows Forms (.NET) application designed to simplify th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TournamentTracker.git
+   git clone https://github.com/Nilesh-Parit/Tournament_Planner.git
