@@ -41,7 +41,7 @@ Tournament Tracker is a Windows Forms (.NET) application designed to simplify th
 - SQL Storage: Make sure to set up the appropriate SQL database and configure connection strings in SQLConnector.cs.
 -  Text File Storage: No additional setup is required; data will be stored in text files in the application's directory.
 
-### Contributing
+## Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature/YourFeature).
