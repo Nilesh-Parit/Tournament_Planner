@@ -29,3 +29,22 @@ Tournament Tracker is a Windows Forms (.NET) application designed to simplify th
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nilesh-Parit/Tournament_Planner.git
+2. Open the solution in Visual Studio.
+3. Restore NuGet packages and build the solution.
+
+### Usage
+- Run the application from Visual Studio.
+- Use the UI to create prizes and tournaments.
+- Choose the data storage method (SQL or text file) by configuring GlobalConfig.cs.
+
+### Data Storage Configuration
+- SQL Storage: Make sure to set up the appropriate SQL database and configure connection strings in SQLConnector.cs.
+-  Text File Storage: No additional setup is required; data will be stored in text files in the application's directory.
+
+### Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/YourFeature).
+3. Commit your changes (git commit -am 'Add new feature').
+4. Push to the branch (git push origin feature/YourFeature).
+5. Create a new Pull Request.
